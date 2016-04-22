@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r"
+   sodipodi:docname="accessories-camera.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-384"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata70">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs68">
+    <linearGradient
+       id="linearGradient38840"
+       y2="551.16"
+       gradientUnits="userSpaceOnUse"
+       x2="259.99"
+       y1="131.82"
+       x1="255.65">
+      <stop
+         id="stop3799"
+         stop-color="#808080" />
+      <stop
+         id="stop3801"
+         stop-color="#756767"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <path
+     style="fill:#ff0000;fill-opacity:0.46987951"
+     d="M 253.05078 34.150391 C 132.16078 34.150391 34.150391 132.15078 34.150391 253.05078 C 34.150391 373.94078 132.15078 471.94922 253.05078 471.94922 C 373.94078 471.94922 471.94922 373.95078 471.94922 253.05078 C 471.94922 132.16078 373.95078 34.150391 253.05078 34.150391 z M 251.66016 190.3418 C 286.72516 190.3418 315.14844 218.76408 315.14844 253.83008 C 315.14844 288.89508 286.72616 317.31836 251.66016 317.31836 C 216.59516 317.31836 188.17188 288.89608 188.17188 253.83008 C 188.17188 218.76508 216.59416 190.3418 251.66016 190.3418 z "
+     id="path18-9" />
+  <path
+     style="fill:#ff0000;fill-opacity:0.46987951"
+     d="M 67.625 136.68945 C 46.425 170.39945 34.15625 210.30131 34.15625 253.07031 C 34.15625 298.34831 47.8885 340.40931 71.4375 375.32031 L 434.65625 375.32031 C 458.20625 340.40931 471.9375 298.35231 471.9375 253.07031 C 471.9375 210.31031 459.66775 170.40445 438.46875 136.68945 L 67.628906 136.68945 L 67.625 136.68945 z M 251.32227 188.17188 C 286.38727 188.17188 314.81055 216.59416 314.81055 251.66016 C 314.81055 286.72516 286.38827 315.14844 251.32227 315.14844 C 216.25727 315.14844 187.83398 286.72616 187.83398 251.66016 C 187.83398 216.59516 216.25627 188.17188 251.32227 188.17188 z "
+     id="rect46569" />
+  <path
+     style="fill:#ff0000;fill-opacity:0.61445785"
+     d="M 256 113.91016 C 177.519 113.91016 113.91016 177.523 113.91016 256 C 113.91016 334.481 177.523 398.08984 256 398.08984 C 334.481 398.08984 398.08984 334.477 398.08984 256 C 398.08984 177.519 334.477 113.91016 256 113.91016 z M 256 192.50977 C 291.065 192.50977 319.48828 220.93205 319.48828 255.99805 C 319.48828 291.06305 291.066 319.48633 256 319.48633 C 255.64894 319.48633 255.30283 319.46661 254.95312 319.46094 C 254.57807 319.46747 254.2067 319.48828 253.83008 319.48828 C 218.76508 319.48828 190.3418 291.066 190.3418 256 C 190.3418 220.935 218.76408 192.51172 253.83008 192.51172 C 254.18114 192.51172 254.52724 192.53143 254.87695 192.53711 C 255.25201 192.53058 255.62338 192.50977 256 192.50977 z "
+     id="path3068" />
+</svg>
